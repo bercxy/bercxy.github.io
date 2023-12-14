@@ -2,4 +2,4 @@
 
 # Hello
 
-- I am Bernice
+- I am Bernice in HeartCode
